@@ -1,0 +1,165 @@
+sending incremental file list
+components.json
+next-env.d.ts
+next.config.js
+package.json
+postcss.config.js
+tailwind.config.ts
+tsconfig.json
+app/
+app/globals.css
+app/layout.tsx
+app/page.tsx
+app/api/
+components/
+components/about-section.tsx
+components/contact-section.tsx
+components/footer.tsx
+components/hero-section.tsx
+components/portfolio-section.tsx
+components/services-section.tsx
+components/theme-provider.tsx
+components/ui/
+components/ui/accordion.tsx
+components/ui/alert-dialog.tsx
+components/ui/alert.tsx
+components/ui/aspect-ratio.tsx
+components/ui/avatar.tsx
+components/ui/badge.tsx
+components/ui/breadcrumb.tsx
+components/ui/button.tsx
+components/ui/calendar.tsx
+components/ui/card.tsx
+components/ui/carousel.tsx
+components/ui/checkbox.tsx
+components/ui/collapsible.tsx
+components/ui/command.tsx
+components/ui/context-menu.tsx
+components/ui/date-range-picker.tsx
+components/ui/dialog.tsx
+components/ui/drawer.tsx
+components/ui/dropdown-menu.tsx
+components/ui/form.tsx
+components/ui/hover-card.tsx
+components/ui/input-otp.tsx
+components/ui/input.tsx
+components/ui/label.tsx
+components/ui/menubar.tsx
+components/ui/navigation-menu.tsx
+components/ui/pagination.tsx
+components/ui/popover.tsx
+components/ui/progress.tsx
+components/ui/radio-group.tsx
+components/ui/resizable.tsx
+components/ui/scroll-area.tsx
+components/ui/select.tsx
+components/ui/separator.tsx
+components/ui/sheet.tsx
+components/ui/skeleton.tsx
+components/ui/slider.tsx
+components/ui/sonner.tsx
+components/ui/switch.tsx
+components/ui/table.tsx
+components/ui/tabs.tsx
+components/ui/task-card.tsx
+components/ui/textarea.tsx
+components/ui/toast.tsx
+components/ui/toaster.tsx
+components/ui/toggle-group.tsx
+components/ui/toggle.tsx
+components/ui/tooltip.tsx
+components/ui/use-toast.ts
+hooks/
+hooks/use-toast.ts
+lib/
+lib/db.ts
+lib/types.ts
+lib/utils.ts
+lib/db/
+prisma/
+prisma/schema.prisma
+public/
+public/475776553_9687117224645210_3290244131986881060_n.jpg
+public/475817236_9687117167978549_3153727977417133328_n.jpg
+public/475889483_9687117207978545_2039117280520841321_n.jpg
+public/83162426_3046190342071298_7712433264023044096_n.jpg
+public/84665339_3077529678937364_775056067225714688_n.jpg
+public/85042608_3077529465604052_4016258776444174336_n.jpg
+public/88012129_3127366757286989_446388144485433344_n.jpg
+public/Audico New Logo 2.png
+public/IMG-20250129-WA0010.jpg
+public/IMG-20250129-WA0011.jpg
+public/IMG-20250129-WA0012.jpg
+public/IMG-20250129-WA0014.jpg
+public/WhatsApp Image 2025-01-29 at 18.14.10_44e1adc1.jpg
+public/WhatsApp Image 2025-01-29 at 18.14.11_8ca30547.jpg
+public/WhatsApp Image 2025-01-29 at 18.14.11_df2c4154.jpg
+public/WhatsApp Image 2025-02-20 at 18.19.39_3b1478c6.jpg
+public/WhatsApp Image 2025-02-20 at 18.19.39_6cc6ecd9.jpg
+public/WhatsApp Image 2025-02-20 at 18.19.39_d2415f53.jpg
+public/WhatsApp Image 2025-02-20 at 18.19.40_05bf97a3.jpg
+public/audico-logo.png
+public/audico_logo.png
+public/desai-house-04.jpg
+public/desai-house-08.jpg
+public/feverberry-21.jpg
+public/feverberry-4.jpg
+public/feverberry-5.jpg
+public/home-theater-1.jpg
+public/home-theater-2.jpg
+public/house_whittaker_17072012_18-Copy.jpg
+public/leadwood-zimbali_08.jpg
+public/leadwood-zimbali_33.jpg
+public/luxury-installation-1.jpg
+public/luxury-installation-2.jpg
+public/palm-house-13.jpg
+public/smart-home-1.jpg
+public/smart-home-2.jpg
+public/smart-home-3.jpg
+public/smart-home-4.jpg
+public/smart-home-5.jpg
+public/smart-home-6.jpg
+public/smart-home-7.jpg
+public/tinderwood-house_13.jpg
+public/tinderwood-house_17.jpg
+public/tinderwood-house_30.jpg
+public/tinderwood-house_39.jpg
+public/tinderwood-house_43.jpg
+public/tinderwood-house_44.jpg
+public/tinderwood-house_53.jpg
+
+sent 10,362,144 bytes  received 2,333 bytes  20,728,954.00 bytes/sec
+total size is 10,350,599  speedup is 1.00
+Attention: Next.js now collects completely anonymous telemetry regarding usage.
+This information is used to shape Next.js' roadmap and prioritize features.
+You can learn more, including how to opt-out if you'd not like to participate in this anonymous program, by visiting the following URL:
+https://nextjs.org/telemetry
+
+  ▲ Next.js 14.2.28
+  - Experiments (use with caution):
+    · outputFileTracingRoot
+
+   Creating an optimized production build ...
+ ✓ Compiled successfully
+   Skipping linting
+   Checking validity of types ...
+   Collecting page data ...
+   Generating static pages (0/4) ...
+   Generating static pages (1/4) 
+   Generating static pages (2/4) 
+   Generating static pages (3/4) 
+ ✓ Generating static pages (4/4)
+   Finalizing page optimization ...
+   Collecting build traces ...
+
+Route (app)                              Size     First Load JS
+┌ ○ /                                    58.9 kB         146 kB
+└ ○ /_not-found                          873 B            88 kB
++ First Load JS shared by all            87.1 kB
+  ├ chunks/117-7476bfa763a9b574.js       31.6 kB
+  ├ chunks/fd9d1056-453b893f7ca8f8cf.js  53.6 kB
+  └ other shared chunks (total)          1.89 kB
+
+
+○  (Static)  prerendered as static content
+

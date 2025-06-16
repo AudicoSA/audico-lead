@@ -1,0 +1,21 @@
+  ▲ Next.js 14.2.28
+  - Local:        http://localhost:3000
+  - Experiments (use with caution):
+    · outputFileTracingRoot
+
+ ✓ Starting...
+Attention: Next.js now collects completely anonymous telemetry regarding usage.
+This information is used to shape Next.js' roadmap and prioritize features.
+You can learn more, including how to opt-out if you'd not like to participate in this anonymous program, by visiting the following URL:
+https://nextjs.org/telemetry
+
+ ✓ Ready in 1312ms
+ ○ Compiling / ...
+ ✓ Compiled / in 4.1s (1196 modules)
+ GET / 200 in 4535ms
+ ✓ Compiled in 492ms (602 modules)
+ GET / 200 in 49ms
+ GET / 200 in 26ms
+ GET / 200 in 24ms
+ ✓ Compiled in 403ms (1177 modules)
+[?25h
