@@ -17,7 +17,7 @@ const portfolioItems = [
     category: "Luxury Estate"
   },
   {
-    title: "Desai Family Residence",
+    title: "Family Residence",
     location: "Durban North",
     description: "Complete home automation solution with climate control, entertainment systems, and integrated security for this contemporary family home.",
     image: "/desai-house-04.jpg",
@@ -67,18 +67,18 @@ const stats = [
 
 const featuredInstallations = [
   {
-    image: "/475776553_9687117224645210_3290244131986881060_n.jpg",
+    image: "/smart-home-4.jpg",
     title: "Premium Audio Installation",
     description: "High-end audio system integration"
   },
   {
-    image: "/475817236_9687117167978549_3153727977417133328_n.jpg",
-    title: "Smart Control Panel",
+    image: "/palm-house-13.jpg",
+    title: "Smart Control System",
     description: "Intuitive Control4 interface"
   },
   {
-    image: "/475889483_9687117207978545_2039117280520841321_n.jpg",
-    title: "Entertainment Center",
+    image: "/tinderwood-house_43.jpg",
+    title: "Entertainment Home",
     description: "Complete AV solution"
   }
 ]
